@@ -3,4 +3,4 @@
 
 sudo apt update -y && sudo apt upgrade -y
 sudo apt install nano bash-completion silversearcher-ag htop p7zip-full zip unzip unrar-free sreen lrzsz \
-    nload python3-bs4  python3-pymongo python3-dateutil
+nload python3-bs4 python3-pymongo python3-dateutil
